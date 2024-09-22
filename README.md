@@ -62,10 +62,13 @@ Einzelspieler als auch für Multiplayer geeignet ist.
 - **Entwicklungsumgebung**: IntelliJ IDEA
 
 ## **Installation**
-1. Lade das Modpack herunter (Link einfügen).
+1. Lade das Modpack herunter.
 2. Stelle sicher, dass du **Minecraft Forge 1.19.2** installiert hast.
 3. Lege die Modpack-Datei im **mods**-Ordner von Minecraft ab.
 4. Starte Minecraft und wähle das Modpack aus.
+  
+ ## **WICHTIG**
+ ### **MAN KANN DAS MODPACK NOCH NICHT HERUNTERLADEN**
 
 ## **Systemanforderungen**
 Um das Modpack reibungslos zu spielen, empfehlen wir folgende Mindestanforderungen:
